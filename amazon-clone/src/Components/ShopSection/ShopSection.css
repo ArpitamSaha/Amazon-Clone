@@ -1,0 +1,66 @@
+.shop-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #e2e7e6;
+}
+.box {
+  background-color: #fff;
+  height: 450px;
+  width: 23%;
+  padding: 20px 0px 15px;
+  margin-top: 15px;
+}
+.box-img {
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 1rem 0;
+}
+
+.box-content {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.box-content p {
+  color: #007185;
+}
+
+/* Todays Deal CSS  */
+.deal-box {
+  padding: 10px 20px;
+  height: 350px;
+  margin: 1rem 1.5rem;
+  width: 100%;
+}
+.deal {
+  display: flex;
+  justify-content: space-evenly;
+}
+.deal-content {
+  padding: 0 20px;
+}
+.deal-content p {
+  font-size: 0.85rem;
+}
+.pro-desp {
+  color: #cc0c39;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.pro-desp span {
+  padding: 4px 6px;
+  text-align: center;
+  color: #fff;
+  background-color: #cc0c39;
+}
+.deal-img {
+  width: 12.5rem;
+  height: 10rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 1rem 0;
+}
+.furniture {
+  height: 300px;
+}
