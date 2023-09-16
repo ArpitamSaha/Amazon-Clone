@@ -81,6 +81,7 @@
   display: flex;
   justify-content: space-evenly;
   gap: 5px;
+  cursor: pointer;
 }
 .nav-location span {
   font-size: 0.85rem;
